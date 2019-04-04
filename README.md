@@ -21,9 +21,6 @@ Mais informações referentes ao **EPM** no site da [EPM - Elipse Software](http
 **Para uma rápida ideia do que é o Sistema EPM, assista ao vídeo a seguir** *(só 2 minutinhos)* **!**
 [![O EPM](http://img.youtube.com/vi/TSiWcU43rGU/0.jpg)](https://youtu.be/TSiWcU43rGU)
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TSiWcU43rGU?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ---
 
 ## Por que [HDF5](https://www.hdfgroup.org/)?
